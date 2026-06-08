@@ -17,8 +17,6 @@ An end-to-end machine learning project predicting whether a customer will subscr
 ├── model.pkl                              # Trained LightGBM model
 ├── encoder.pkl                            # Fitted OneHotEncoder
 ├── scaler.pkl                             # Fitted StandardScaler
-├── TeleCom_Data-1.csv                     # Raw data (EDA)
-├── TeleCom_Data-2.csv                     # Raw data (Modelling)
 └── README.md
 ```
 
