@@ -34,6 +34,7 @@ A telecommunications company launching a new marketing campaign seeks to identif
 - **Size:** 41,188 rows × 21 columns (before cleaning)
 - **Target variable:** `y` — whether the customer subscribed (1) or not (0)
 - **Class imbalance:** ~11% positive class (y=1)
+- *Raw data is not included in this repository due to privacy constraints.*
 
 ---
 
