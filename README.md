@@ -9,14 +9,14 @@ An end-to-end machine learning project predicting whether a customer will subscr
 ## Project Structure
 
 ```
-├── tele_EDA_final_github.ipynb            # Exploratory Data Analysis
-├── 36103_25P_AT3_Code_final_github.ipynb  # Modelling & Business Analysis
-├── main.py                                # FastAPI application
-├── Dockerfile                             # Docker configuration
-├── requirements.txt                       # Dependencies
-├── model.pkl                              # Trained LightGBM model
-├── encoder.pkl                            # Fitted OneHotEncoder
-├── scaler.pkl                             # Fitted StandardScaler
+├── 1_exploratory_data_analysis.ipynb         # Exploratory Data Analysis
+├── 2_modelling_and_business_analysis.ipynb   # Modelling & Business Analysis
+├── main.py                                   # FastAPI application
+├── Dockerfile                                # Docker configuration
+├── requirements.txt                          # Dependencies
+├── model.pkl                                 # Trained LightGBM model
+├── encoder.pkl                               # Fitted OneHotEncoder
+├── scaler.pkl                                # Fitted StandardScaler
 └── README.md
 ```
 
